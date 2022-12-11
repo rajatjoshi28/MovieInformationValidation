@@ -19,5 +19,5 @@ Execution:
 ---------------
 *	Clone the repository. - https://github.com/rajatjoshi28/MovieInformationValidation
 *	Open command prompt and go to MovieInformationValidation directory where repo is cloned.
-*	To run on local environment use command ....\.\Java-Selenium-TestNG-Automation-Framework> mvn clean test -PTestVagrant
+*	To run on local environment use command ....\.\MovieInformationValidation> mvn clean test -PTestVagrant
 
