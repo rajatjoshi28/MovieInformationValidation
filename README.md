@@ -1,7 +1,7 @@
 Introduction:
 ---------------
 
-This Test Automation Framework is created using Java + Selenium Web Driver + TestNG. It validates ReleaseDate and Country detail of given movie on Wikipedia and IMDB portals.
+This Test Automation Framework is created using Java + Selenium Web Driver + TestNG + Page Object Model. It validates ReleaseDate and Country detail of given movie on Wikipedia and IMDB portals.
 *  refer global.properties file for required choice movie for validation
 *  Jenkins integration - refer to Jenkins directory for viewing screenshots of successful integration
 
